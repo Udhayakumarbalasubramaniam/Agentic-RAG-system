@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+langchain
+langchain-cohere
+langchain-community
+crewai[tools]
+faiss-cpu
+python-dotenv
